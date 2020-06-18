@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.gradle/
+/Tic-Tac_Toe/task/out/
+/Coffee Machine/task/out/production/classes/
+.idea
+.gradle
+/Tic-Tac_Toe/task/build/classes
+/Tic-Tac_Toe/task/build/reports
+/Tic-Tac_Toe/task/build/test-results
+/Tic-Tac_Toe/task/build/tmp
+.class
+/Tic-Tac_Toe/task/build
+# Project exclude paths
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
